@@ -17,3 +17,6 @@ LATIHAN5.PY
 
 LATIHAN6.PY
 <img width="464" height="136" alt="image" src="https://github.com/user-attachments/assets/b72d1e90-1581-49f7-a24d-1b8185a8e903" />
+
+PROYEKMYEDOTEL.PY
+<img width="523" height="379" alt="image" src="https://github.com/user-attachments/assets/108242a3-d2b6-41ad-8b83-99a3487279c8" />
